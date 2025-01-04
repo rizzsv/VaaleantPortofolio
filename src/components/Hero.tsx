@@ -1,12 +1,6 @@
 "use client"
 import React from 'react'
 import Image from 'next/image'
-import cursor from "../assets/icon1.png"
-import lightning from "../assets/icon2.png"
-import NodeLogo from "../assets/Node.js-removebg-preview.png"
-import JsLogo from "../assets/js-removebg-preview.png"
-import message from "../assets/icon2.png"
-import {motion} from "framer-motion"
 import profilepic from "../assets/profilepic.png"
 
 const Hero = () => {
